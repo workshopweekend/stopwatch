@@ -2,4 +2,5 @@
 
 2. Follow the directions given in the [instructions document](instructions.pdf).
 
-3. Ensure that your final code matches the following: <%= stopwatch.ino =%>
+3. Ensure that your final code matches the following:
+    <%= stopwatch.ino =%>
